@@ -14,12 +14,21 @@ This repo serves as a **technical documentation & showcase**.
 
 ## ⏱️ Project Facts
 - **Total time spent:** ~12–14h  
-  - Debugging: ~4h (dataset fixes, rsync issues, GPU not used at first 😅)  
+  - Debugging: ~4h (dataset fixes, rsync sync issues, initial CPU-only runs 😅)  
   - Training + Inference: ~6–8h  
-  - Misc (setup, cleanup): ~2h  
-- **Hardware:** AMD RX 7900 XTX (ROCm backend)  
-- **Frameworks:** HuggingFace Transformers, PEFT, PyTorch (ROCm), custom Python scripts  
-- **Specialty:** OSS-20B with LoRA → **rarely documented on AMD GPUs**  
+  - Misc (setup, cleanup, monitoring): ~2h  
+
+- **Hardware Environment:**  
+  - **RunPod B200 Instance**  
+  - 28 vCPU, 180 GB RAM, 50 GB Disk, 150 GB Pod Volume  
+  - NVIDIA GPU (CUDA Capability `sm_100`) – shown as **B200**  
+  - **PyTorch CUDA 12.1** (Torch available: `True`)  
+  - Container: `runpod/pytorch:2.8.0-py3.11-cuda12.8.1-cudnn-devel`  
+
+- **Frameworks:** HuggingFace Transformers, PEFT, PyTorch (CUDA), custom Python scripts  
+
+- **Specialty:** OSS-20B with LoRA → **rarely documented on B200 hardware**  
+
 
 ---
 
