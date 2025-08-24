@@ -100,8 +100,6 @@ gpt-oss-20b-lora-dua/
 
 ## 📷 Media
 
-## 📷 Media
-
 ### Screenshots
 - **GPU Setup:** ![](images/b200_Cuda12.png)  
 - **Mini-Test Success:** ![](images/mini_training_success.png)  
