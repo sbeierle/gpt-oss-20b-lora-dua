@@ -1,0 +1,24 @@
+# Core
+torch>=2.2.0
+transformers>=4.40.0
+accelerate>=0.29.0
+datasets>=2.18.0
+peft>=0.10.0
+bitsandbytes>=0.42.0
+
+# Tokenizer / Models
+sentencepiece>=0.2.0
+safetensors>=0.4.2
+
+# Logging & Monitoring
+tensorboard>=2.16.0
+wandb>=0.16.0
+
+# Utilities
+gradio>=4.29.0
+scipy
+pandas
+numpy
+
+# Editor (falls du micro nutzen willst)
+micro

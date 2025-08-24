@@ -1,0 +1,120 @@
+{"prompt": "What words are used for remembering Allah (dhikr: SubhānAllāh, Alhamdulillāh, Allāhu Akbar)?", 
+ "response": "Arabic: سبحان الله، الحمد لله، الله أكبر.\n\nTransliteration: SubḥānAllāh, al-ḥamdu lillāh, Allāhu akbar.\n\nEnglish: Glory be to Allah, praise be to Allah, Allah is the Greatest."}
+
+{"prompt": "List the three surahs to recite in the evening.", 
+ "response": "Arabic: قُلْ هُوَ اللَّهُ أَحَدٌ، قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ، قُلْ أَعُوذُ بِرَبِّ النَّاسِ.\n\nTransliteration: Qul huwa Allāhu aḥad, Qul aʿūdhu birabbil-falaq, Qul aʿūdhu birabbin-nās.\n\nEnglish: Surah al-Ikhlās, Surah al-Falaq, and Surah an-Nās."}
+
+{"prompt": "What dua is said when leaving the house?", 
+ "response": "Arabic: بسم الله، توكلت على الله، ولا حول ولا قوة إلا بالله.\n\nTransliteration: Bismillāh, tawakkaltu ʿalallāh, wa lā ḥawla wa lā quwwata illā billāh.\n\nEnglish: In the name of Allah, I place my trust in Allah, and there is no power nor might except with Allah."}
+
+{"prompt": "What dua is said when entering the house?", 
+ "response": "Arabic: بسم الله ولجنا، وبسم الله خرجنا، وعلى الله ربنا توكلنا.\n\nTransliteration: Bismillāhi walajnā, wa bismillāhi kharajnā, wa ʿalallāhi rabbanā tawakkalnā.\n\nEnglish: In the name of Allah we enter, in the name of Allah we leave, and upon our Lord we rely."}
+
+{"prompt": "What is the dua before eating?", 
+ "response": "Arabic: بسم الله.\n\nTransliteration: Bismillāh.\n\nEnglish: In the name of Allah."}
+
+{"prompt": "What is the dua after finishing a meal?", 
+ "response": "Arabic: الحمد لله الذي أطعمنا وسقانا وجعلنا مسلمين.\n\nTransliteration: Al-ḥamdu lillāh alladhī aṭʿamanā wa saqānā wa jaʿalanā muslimīn.\n\nEnglish: Praise be to Allah who fed us, gave us drink, and made us Muslims."}
+
+{"prompt": "What dua is said when boarding a vehicle?", 
+ "response": "Arabic: سبحان الذي سخر لنا هذا وما كنا له مقرنين، وإنا إلى ربنا لمنقلبون.\n\nTransliteration: Subḥānalladhī sakhkhara lanā hādhā wa mā kunnā lahu muqrinīn, wa innā ilā rabbinā lamunqalibūn.\n\nEnglish: Glory be to Him who has subjected this to us, and we could not have done it ourselves. Surely, to our Lord we will return."}
+
+{"prompt": "What dua is said upon entering the restroom?", 
+ "response": "Arabic: اللَّهُمَّ إنِّي أعوذ بك من الخبث والخبائث.\n\nTransliteration: Allāhumma innī aʿūdhu bika minal-khubthi wal-khabāʾith.\n\nEnglish: O Allah, I seek refuge with You from male and female devils."}
+
+{"prompt": "What dua is said after leaving the restroom?", 
+ "response": "Arabic: غفرانك.\n\nTransliteration: Ghufrānak.\n\nEnglish: I ask You for forgiveness."}
+
+{"prompt": "What dua is said upon hearing the Adhān (call to prayer)?", 
+ "response": "Arabic: اللَّهُمَّ رب هذه الدعوة التامة والصلاة القائمة، آت محمداً الوسيلة والفضيلة، وابعثه مقاماً محموداً الذي وعدته...\n\nTransliteration: Allāhumma rabba hādhihi-d-daʿwati-t-tāmmah waṣ-ṣalāti-l-qāʾimah, ātī Muḥammadan al-wasīlata wal-faḍīlah, wabʿath-hu maqāman maḥmūdan alladhī waʿadtah...\n\nEnglish: O Allah, Lord of this perfect call and the established prayer, grant Muhammad the means and the virtue, and raise him to a praised station which You have promised..."}
+
+{"prompt": "What is the dua when waking up from sleep?", 
+ "response": "Arabic: الحمد لله الذي أحيانا بعدما أماتنا وإليه النشور.\n\nTransliteration: Al-ḥamdu lillāh alladhī aḥyānā baʿda mā amātanā wa ilayhin-nushūr.\n\nEnglish: Praise be to Allah who gave us life after causing us to die, and to Him is the resurrection."}
+
+{"prompt": "What is the dua before sleeping?", 
+ "response": "Arabic: باسمك اللهم أموت وأحيا.\n\nTransliteration: Bismika Allāhumma amūtu wa aḥyā.\n\nEnglish: In Your name, O Allah, I die and I live."}
+
+{"prompt": "What dua is said when putting on new clothes?", 
+ "response": "Arabic: الحمد لله الذي كساني هذا الثوب ورزقنيه من غير حول مني ولا قوة.\n\nTransliteration: Al-ḥamdu lillāh alladhī kasānī hādhā-th-thawb wa razaqanīhi min ghayri ḥawlin minnī wa lā quwwah.\n\nEnglish: Praise be to Allah who clothed me with this garment and provided it to me without power or might from myself."}
+
+{"prompt": "What dua is said when looking in the mirror?", 
+ "response": "Arabic: اللهم كما حسنت خَلقي فحسن خُلقي.\n\nTransliteration: Allāhumma kamā ḥassanta khalqī faḥassin khuluqī.\n\nEnglish: O Allah, just as You have beautified my appearance, beautify my character."}
+
+{"prompt": "What dua is said when visiting the sick?", 
+ "response": "Arabic: لا بأس طهور إن شاء الله.\n\nTransliteration: Lā baʾs, ṭahūr in shāʾ Allāh.\n\nEnglish: No harm, it is a purification if Allah wills."}
+
+{"prompt": "What dua is said when sneezing?", 
+ "response": "Arabic: الحمد لله.\n\nTransliteration: Al-ḥamdu lillāh.\n\nEnglish: Praise be to Allah."}
+
+{"prompt": "What dua is said when hearing someone sneeze?", 
+ "response": "Arabic: يرحمك الله.\n\nTransliteration: YarḥamukAllāh.\n\nEnglish: May Allah have mercy on you."}
+
+{"prompt": "What dua is said when thanking someone?", 
+ "response": "Arabic: جزاك الله خيرًا.\n\nTransliteration: JazākAllāhu khayran.\n\nEnglish: May Allah reward you with goodness."}
+
+{"prompt": "What dua is said after drinking milk?", 
+ "response": "Arabic: اللهم بارك لنا فيه وزدنا منه.\n\nTransliteration: Allāhumma bārik lanā fīhi wa zidnā minhu.\n\nEnglish: O Allah, bless it for us and increase us in it."}
+
+{"prompt": "What dua is said after drinking water?", 
+ "response": "Arabic: الحمد لله الذي سقانا عذبًا فراتًا برحمته، ولم يجعله ملحًا أجاجًا بذنوبنا.\n\nTransliteration: Al-ḥamdu lillāh alladhī saqānā ʿadhban furātan biraḥmatih, wa lam yajʿalhu milḥan ujājān bidhunūbinā.\n\nEnglish: Praise be to Allah who gave us sweet fresh water by His mercy and did not make it bitter and salty due to our sins."}
+
+{"prompt": "What dua is said when entering the mosque?", 
+ "response": "Arabic: اللهم افتح لي أبواب رحمتك.\n\nTransliteration: Allāhumma iftaḥ lī abwāba raḥmatik.\n\nEnglish: O Allah, open for me the doors of Your mercy."}
+
+{"prompt": "What dua is said when leaving the mosque?", 
+ "response": "Arabic: اللهم إني أسألك من فضلك.\n\nTransliteration: Allāhumma innī asʾaluka min faḍlik.\n\nEnglish: O Allah, I ask You from Your bounty."}
+
+{"prompt": "What dua is said when beginning ablution (wudūʾ)?", 
+ "response": "Arabic: بسم الله.\n\nTransliteration: Bismillāh.\n\nEnglish: In the name of Allah."}
+
+{"prompt": "What dua is said after completing ablution?", 
+ "response": "Arabic: أشهد أن لا إله إلا الله وحده لا شريك له، وأشهد أن محمدًا عبده ورسوله. اللهم اجعلني من التوابين واجعلني من المتطهرين.\n\nTransliteration: Ashhadu an lā ilāha illallāh waḥdahu lā sharīka lah, wa ashhadu anna Muḥammadan ʿabduhu wa rasūluh. Allāhummajʿalnī minat-tawwābīn, wajʿalnī minal-mutaṭahhirīn.\n\nEnglish: I bear witness that none has the right to be worshiped but Allah alone without partner, and I bear witness that Muhammad is His servant and Messenger. O Allah, make me among those who repent and purify themselves."}
+
+{"prompt": "What dua is said when it rains?", 
+ "response": "Arabic: اللهم صيبًا نافعًا.\n\nTransliteration: Allāhumma ṣayyiban nāfiʿan.\n\nEnglish: O Allah, make it a beneficial rain."}
+
+{"prompt": "What dua is said after rain has stopped?", 
+ "response": "Arabic: مُطِرنا بفضل الله ورحمته.\n\nTransliteration: Muṭirnā bi-faḍlillāhi wa raḥmatih.\n\nEnglish: We have been given rain by the grace and mercy of Allah."}
+
+{"prompt": "What dua is said during a thunderstorm?", 
+ "response": "Arabic: سبحان الذي يسبح الرعد بحمده والملائكة من خيفته.\n\nTransliteration: Subḥānalladhī yusabbiḥur-raʿdu bi-ḥamdih, wal-malāʾikatu min khīfatih.\n\nEnglish: Glory be to Him whom the thunder and the angels praise out of fear of Him."}
+
+{"prompt": "What dua is said when wearing shoes?", 
+ "response": "Arabic: بسم الله.\n\nTransliteration: Bismillāh.\n\nEnglish: In the name of Allah."}
+
+{"prompt": "What dua is said when anger overtakes a person?", 
+ "response": "Arabic: أعوذ بالله من الشيطان الرجيم.\n\nTransliteration: Aʿūdhu billāhi minash-shayṭānir-rajīm.\n\nEnglish: I seek refuge with Allah from the accursed devil."}
+
+{"prompt": "What dua is said upon seeing something you like?", 
+ "response": "Arabic: ما شاء الله لا قوة إلا بالله.\n\nTransliteration: Mā shāʾAllāhu lā quwwata illā billāh.\n\nEnglish: What Allah has willed has happened; there is no power except with Allah."}
+
+{"prompt": "What dua is said when visiting the graveyard?", 
+ "response": "Arabic: السلام عليكم دار قوم مؤمنين، وإنا إن شاء الله بكم لاحقون، يرحم الله المستقدمين منا والمستأخرين.\n\nTransliteration: As-salāmu ʿalaykum dāra qawmin muʾminīn, wa innā in shāʾAllāhu bikum lāḥiqūn, yarḥamullāhul-mustaqdimīna minnā wal-mustaʾkhirīn.\n\nEnglish: Peace be upon you, O people of the believing dwellings. Indeed, we will, if Allah wills, join you. May Allah have mercy on those who went ahead of us and those who will follow."}
+
+{"prompt": "What dua is said when a calamity strikes?", 
+ "response": "Arabic: إنا لله وإنا إليه راجعون، اللهم أجرني في مصيبتي واخلف لي خيرًا منها.\n\nTransliteration: Innā lillāhi wa innā ilayhi rājiʿūn. Allāhumma ajirnī fī muṣībatī wakhluf lī khayran minhā.\n\nEnglish: Surely, to Allah we belong and to Him we return. O Allah, reward me for my affliction and replace it for me with something better."}
+
+{"prompt": "What dua is said when seeing someone afflicted by misfortune?", 
+ "response": "Arabic: الحمد لله الذي عافاني مما ابتلاك به، وفضلني على كثير ممن خلق تفضيلاً.\n\nTransliteration: Al-ḥamdu lillāh alladhī ʿāfānī mimmā ibtalāka bih, wa faḍḍalanī ʿalā kathīrin mimman khalaqa tafḍīlā.\n\nEnglish: Praise be to Allah who spared me from what He tested you with and preferred me greatly over many of His creation."}
+
+{"prompt": "What dua is said when beginning a journey?", 
+ "response": "Arabic: اللهم إنا نسألك في سفرنا هذا البر والتقوى، ومن العمل ما ترضى...\n\nTransliteration: Allāhumma innā nasʾaluka fī safarinā hādhā al-birra wat-taqwā, wa mina-l-ʿamali mā tarḍā...\n\nEnglish: O Allah, we ask You on this journey for righteousness and piety, and for deeds that please You... "}
+
+{"prompt": "What dua is said when returning from a journey?", 
+ "response": "Arabic: آيبون، تائبون، عابدون، لربنا حامدون.\n\nTransliteration: Āʾibūn, tāʾibūn, ʿābidūn, li-rabbinā ḥāmidūn.\n\nEnglish: Returning, repenting, worshiping, praising our Lord."}
+
+{"prompt": "What dua is said when starting a meal with others?", 
+ "response": "Arabic: اللهم بارك لنا فيما رزقتنا، واغفر لنا، وارحمنا.\n\nTransliteration: Allāhumma bārik lanā fīmā razaqtanā, waghfir lanā, warḥamnā.\n\nEnglish: O Allah, bless us in what You have provided, forgive us, and have mercy on us."}
+
+{"prompt": "What dua is said when finishing a gathering?", 
+ "response": "Arabic: سبحانك اللهم وبحمدك، أشهد أن لا إله إلا أنت، أستغفرك وأتوب إليك.\n\nTransliteration: Subḥānaka Allāhumma wa biḥamdik, ashhadu an lā ilāha illā anta, astaghfiruka wa atūbu ilayk.\n\nEnglish: Glory is to You, O Allah, and praise. I bear witness there is none worthy of worship but You. I seek Your forgiveness and turn to You in repentance."}
+
+{"prompt": "What dua is said for someone who gives you a loan?", 
+ "response": "Arabic: بارك الله لك في أهلك ومالك، جزاك الله خيرًا.\n\nTransliteration: BārakAllāhu laka fī ahlika wa mālik, jazākAllāhu khayran.\n\nEnglish: May Allah bless you in your family and wealth. May Allah reward you with goodness."}
+
+{"prompt": "What dua is said for someone who sneezes and praises Allah?", 
+ "response": "Arabic: يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ.\n\nTransliteration: Yahdīkumullāhu wa yuṣliḥu bālakum.\n\nEnglish: May Allah guide you and set your affairs right."}
+
+{"prompt": "What dua is said when breaking the fast?", 
+ "response": "Arabic: ذهب الظمأ وابتلت العروق وثبت الأجر إن شاء الله.\n\nTransliteration: Dhahaba-ẓ-ẓamaʾ wa-btallati-l-ʿurūq wa-thabata-l-ajru in shāʾ Allāh.\n\nEnglish: The thirst has gone, the veins are moistened, and the reward is confirmed, if Allah wills."}
+
