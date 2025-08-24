@@ -86,7 +86,7 @@ gpt-oss-20b-lora-dua/
 ## 📊 Results
 
 ### ✅ Successes
-- First documented LoRA fine-tune of **OSS-20B** on **AMD ROCm GPU**  
+- First documented LoRA fine-tune of **OSS-20B** on **RunPod B200 (CUDA 12)**  
 - Dataset correction pipeline works robustly  
 - Training reproducible (mini + full runs)  
 - Model improved on Arabic + Islamic contexts  
@@ -94,7 +94,8 @@ gpt-oss-20b-lora-dua/
 ### ⚠️ Limitations
 - Dataset small (~100–200 examples)  
 - Religious accuracy still requires scholar review  
-- ROCm quirks → some wasted time (CPU fallback, rsync overhead)  
+- Cloud quirks → some wasted time (initial CPU-only runs, rsync overhead)  
+  
 
 ---
 
@@ -124,7 +125,7 @@ gpt-oss-20b-lora-dua/
 ---
 
 ## 💡 Lessons Learned
-- **AMD ROCm** works well but requires careful setup  
+- **RunPod B200 (CUDA 12)** works reliably once set up correctly  
 - **LoRA is efficient** even on 20B parameter models  
 - Debugging + real-world overhead (CPU fallback, rsync) matter just as much as training itself  
 - Transparency (keeping even “mistakes”) helps others learn  
@@ -135,6 +136,7 @@ gpt-oss-20b-lora-dua/
 This repo demonstrates:  
 - How to structure a **real LoRA fine-tune project** end-to-end  
 - How to handle **dataset debugging, training, merging, inference**  
-- How to use **AMD GPUs (ROCm)** for large-scale experiments  
+- How to use **cloud GPU instances (RunPod B200)** for large-scale experiments  
 
-👉 A **hands-on showcase**, not a polished prod
+👉 A **hands-on showcase**, not a polished product – built for **education, research, and reproducibility**.  
+
